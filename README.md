@@ -6,11 +6,9 @@ Algumas informações sobre mim:
 
 -Ensino medio completo ...
 
--Flamenguista ...
-
 -Meu likedin : [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitorsoaresp/)
 
--E-mail para contato pereiravitor1218@gmail.com
+-E-mail para contato:   pereiravitor1218@gmail.com
 
 <!---
 Vitosoaresp/Vitosoaresp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
