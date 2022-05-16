@@ -7,9 +7,9 @@
 
 ## Sobre min:
 
-Sou de Teixeira de Freitas - Bahia 
+Teixeira de Freitas - Bahia 
 
-Curso programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
+Cursando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
 
 ## Tecnologias
 <div style="display: inline_block">
