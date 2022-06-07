@@ -1,4 +1,4 @@
-## Olá me chamo Vitor e sou Desenvolvedor Front-end
+## Olá me chamo Vitor e seja bem vindo ao meu Github
 
 <div>
     <a href="https://instagram.com/vitosoaresp" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" ></a>
@@ -27,6 +27,30 @@ Cursando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitosoaresp&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitosoaresp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+    
+## Projetos 
+ <table>
+ <tr>
+    <td align="top">
+      <h3 align="center">Carteira de gastos</h3>
+      <a href="https://vitosoaresp.github.io/expensesRecord/"><img width=400px src="https://github.com/Vitosoaresp/expensesRecord/raw/vitor-soares-trybewallet/wallet.png" alt="Project expenses preview" /></a>
+        <div align="center">
+          <a href="https://vitosoaresp.github.io/expensesRecord/">GitHub Page</a>
+            <span>---</span>
+          <a href="https://github.com/Vitosoaresp/expensesRecord">Repositorio</a>
+        </div>
+    </td>
+     <td align="top">
+      <h3 align="center">Formulario de login</h3>
+      <a href="https://github.com/Vitosoaresp/LoginForm"><img width=400px src="https://user-images.githubusercontent.com/23152592/171972396-43274cea-760e-424d-9319-2407208f9a8f.png" alt="Project FormLogin preview" /></a>
+        <div align="center">
+          <a href="https://vitosoaresp.github.io/LoginForm/">GitHub Page</a>
+            <span>---</span>
+          <a href="https://github.com/Vitosoaresp/LoginForm">Repositorio</a>
+        </div>
+    </td>
+ </tr>
+
   
 <!---
 Vitosoaresp/Vitosoaresp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
