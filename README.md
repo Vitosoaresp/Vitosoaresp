@@ -50,6 +50,15 @@ Cursando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
           <a href="https://github.com/Vitosoaresp/LoginForm">Repositorio</a>
         </div>
     </td>
+     <td align="top">
+      <h3 align="center">StarWars Planets</h3>
+      <a href="https://github.com/Vitosoaresp/starwars-planets"><img width=400px src="https://github.com/Vitosoaresp/starwars-planets/raw/main/starwars.png" alt="Project StarWars Planets preview" /></a>
+        <div align="center">
+          <a href="https://vitosoaresp.github.io/starwars-planets/">GitHub Page</a>
+            <span>---</span>
+          <a href="https://github.com/Vitosoaresp/starwars-planets">Repositorio</a>
+        </div>
+    </td>
  </tr>
 
   
