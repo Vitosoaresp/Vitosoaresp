@@ -32,6 +32,15 @@ Cursando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
 ## Projetos 
  <table>
  <tr>
+     <td align="top">
+      <h3 align="center">Online Store</h3>
+      <a href="https://vitosoaresp.github.io/online-store/"><img width=400px src="https://user-images.githubusercontent.com/23152592/174706270-357e0ab5-8fde-43a8-8b0d-1da51ff17293.png" alt="Project Online Store preview" /></a>
+        <div align="center">
+          <a href="https://vitosoaresp.github.io/online-store/">GitHub Page</a>
+            <span>---</span>
+          <a href="https://github.com/Vitosoaresp/online-store">Repositorio</a>
+        </div>
+    </td>
     <td align="top">
       <h3 align="center">Carteira de gastos</h3>
       <a href="https://vitosoaresp.github.io/expensesRecord/"><img width=400px src="https://github.com/Vitosoaresp/expensesRecord/raw/vitor-soares-trybewallet/wallet.png" alt="Project expenses preview" /></a>
