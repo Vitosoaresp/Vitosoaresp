@@ -39,6 +39,15 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
         </div>
     </td>
     <td align="top">
+      <h3 align="center">Recipes App</h3>
+      <a href="https://recipes-app-five-rosy.vercel.app/"><img width=400px src="https://user-images.githubusercontent.com/23152592/177244849-6dd47e48-1ca0-4c2f-98dd-630744a76ab5.PNG" alt="Project Recipes App preview" /></a>
+        <div align="center">
+          <a href="https://recipes-app-five-rosy.vercel.app/">GitHub Page</a>
+            <span>---</span>
+          <a href="https://github.com/Vitosoaresp/recipes-app">Repositorio</a>
+        </div>
+    </td>
+    <td align="top">
       <h3 align="center">Carteira de gastos</h3>
       <a href="https://vitosoaresp.github.io/expensesRecord/"><img width=400px src="https://github.com/Vitosoaresp/expensesRecord/raw/vitor-soares-trybewallet/wallet.png" alt="Project expenses preview" /></a>
         <div align="center">
@@ -47,22 +56,15 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
           <a href="https://github.com/Vitosoaresp/expensesRecord">Repositorio</a>
         </div>
     </td>
-     <td align="top">
+ </tr>
+ <tr>
+ <td align="top">
       <h3 align="center">Formulario de login</h3>
       <a href="https://github.com/Vitosoaresp/LoginForm"><img width=400px src="https://user-images.githubusercontent.com/23152592/171972396-43274cea-760e-424d-9319-2407208f9a8f.png" alt="Project FormLogin preview" /></a>
         <div align="center">
           <a href="https://vitosoaresp.github.io/LoginForm/">GitHub Page</a>
             <span>---</span>
           <a href="https://github.com/Vitosoaresp/LoginForm">Repositorio</a>
-        </div>
-    </td>
-     <td align="top">
-      <h3 align="center">StarWars Planets</h3>
-      <a href="https://github.com/Vitosoaresp/starwars-planets"><img width=400px src="https://github.com/Vitosoaresp/starwars-planets/raw/main/starwars.png" alt="Project StarWars Planets preview" /></a>
-        <div align="center">
-          <a href="https://vitosoaresp.github.io/starwars-planets/">GitHub Page</a>
-            <span>---</span>
-          <a href="https://github.com/Vitosoaresp/starwars-planets">Repositorio</a>
         </div>
     </td>
  </tr>
