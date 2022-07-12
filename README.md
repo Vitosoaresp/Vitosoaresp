@@ -47,6 +47,18 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
           <a href="https://github.com/Vitosoaresp/recipes-app">Repositorio</a>
         </div>
     </td>
+    
+ </tr>
+ <tr>
+    <td align="top">
+      <h3 align="center">Formulario de login</h3>
+      <a href="https://github.com/Vitosoaresp/LoginForm"><img width=400px src="https://user-images.githubusercontent.com/23152592/171972396-43274cea-760e-424d-9319-2407208f9a8f.png" alt="Project FormLogin preview" /></a>
+        <div align="center">
+          <a href="https://vitosoaresp.github.io/LoginForm/">GitHub Page</a>
+            <span>---</span>
+          <a href="https://github.com/Vitosoaresp/LoginForm">Repositorio</a>
+        </div>
+    </td>
     <td align="top">
       <h3 align="center">Carteira de gastos</h3>
       <a href="https://vitosoaresp.github.io/expensesRecord/"><img width=400px src="https://github.com/Vitosoaresp/expensesRecord/raw/vitor-soares-trybewallet/wallet.png" alt="Project expenses preview" /></a>
@@ -54,17 +66,6 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
           <a href="https://vitosoaresp.github.io/expensesRecord/">GitHub Page</a>
             <span>---</span>
           <a href="https://github.com/Vitosoaresp/expensesRecord">Repositorio</a>
-        </div>
-    </td>
- </tr>
- <tr>
- <td align="top">
-      <h3 align="center">Formulario de login</h3>
-      <a href="https://github.com/Vitosoaresp/LoginForm"><img width=400px src="https://user-images.githubusercontent.com/23152592/171972396-43274cea-760e-424d-9319-2407208f9a8f.png" alt="Project FormLogin preview" /></a>
-        <div align="center">
-          <a href="https://vitosoaresp.github.io/LoginForm/">GitHub Page</a>
-            <span>---</span>
-          <a href="https://github.com/Vitosoaresp/LoginForm">Repositorio</a>
         </div>
     </td>
  </tr>
