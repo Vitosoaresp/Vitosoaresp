@@ -54,21 +54,27 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
  </tr>
  <tr>
     <td align="top">
+      <h3 align="center">Rocket NFTs</h3>
+      <a href="https://github.com/Vitosoaresp/rocketnfts">
+        <img
+            width=400px
+            src="https://user-images.githubusercontent.com/23152592/180119578-7fc084de-bc99-4238-bf4a-9edf01a9391f.jpeg"
+            alt="Project rocketnfts preview"
+        />
+      </a>
+        <div align="center">
+          <a href="https://vitosoaresp.github.io/rocketnfts/">GitHub Page</a>
+            <span>---</span>
+          <a href="https://github.com/Vitosoaresp/rocketnfts/">Repositorio</a>
+        </div>
+    </td>
+    <td align="top">
       <h3 align="center">Formulario de login</h3>
       <a href="https://github.com/Vitosoaresp/LoginForm"><img width=400px src="https://user-images.githubusercontent.com/23152592/171972396-43274cea-760e-424d-9319-2407208f9a8f.png" alt="Project FormLogin preview" /></a>
         <div align="center">
           <a href="https://vitosoaresp.github.io/LoginForm/">GitHub Page</a>
             <span>---</span>
           <a href="https://github.com/Vitosoaresp/LoginForm">Repositorio</a>
-        </div>
-    </td>
-    <td align="top">
-      <h3 align="center">Carteira de gastos</h3>
-      <a href="https://vitosoaresp.github.io/expensesRecord/"><img width=400px src="https://github.com/Vitosoaresp/expensesRecord/raw/vitor-soares-trybewallet/wallet.png" alt="Project expenses preview" /></a>
-        <div align="center">
-          <a href="https://vitosoaresp.github.io/expensesRecord/">GitHub Page</a>
-            <span>---</span>
-          <a href="https://github.com/Vitosoaresp/expensesRecord">Repositorio</a>
         </div>
     </td>
  </tr>
