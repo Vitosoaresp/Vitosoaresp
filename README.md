@@ -78,6 +78,23 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
         </div>
     </td>
  </tr>
+    <tr>
+        <td align="top">
+          <h3 align="center">Clone da Netflix</h3>
+          <a href="https://github.com/Vitosoaresp/clone_netflix">
+            <img
+                width=400px
+                src="https://user-images.githubusercontent.com/23152592/180915771-d67ee878-4f87-41cd-9566-d22549c7d140.png"
+                alt="Pre visualização do clone da netflix"
+            />
+          </a>
+            <div align="center">
+              <a href="https://clone-netflix-gilt.vercel.app/">Aplicação</a>
+                <span>---</span>
+              <a href="https://github.com/Vitosoaresp/clone_netflix">Repositório</a>
+            </div>
+        </td>
+    </tr>
 
   
 <!---
