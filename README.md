@@ -1,7 +1,7 @@
 ## Oi 👋, eu sou o Vitor Soares
 
 <a href = "mailto:pereiravitor1218@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/vitorsoaresp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/vitorsoaresp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## Sobre min:
 
@@ -27,14 +27,31 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
 
 ## Minhas estatíticas 
 <div>
-<a href="https://github.com/Vitosoaresp">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitosoaresp&layout=compact&langs_count=7&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitosoaresp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <a href="https://github.com/Vitosoaresp">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitosoaresp&layout=compact&langs_count=7&theme=tokyonight"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitosoaresp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    </a>
 </div>
+<img align="center" src="https://komarev.com/ghpvc/?username=Vitosoaresp" />
     
 ## Projetos 
  <table>
  <tr>
+     <td align="top">
+        <h3 align="center">Clone da Netflix</h3>
+          <a href="https://github.com/Vitosoaresp/clone_netflix">
+            <img
+                width=400px
+                src="https://user-images.githubusercontent.com/23152592/180915771-d67ee878-4f87-41cd-9566-d22549c7d140.png"
+                alt="Pre visualização do clone da netflix"
+            />
+          </a>
+            <div align="center">
+              <a href="https://clone-netflix-gilt.vercel.app/">Aplicação</a>
+                <span>---</span>
+              <a href="https://github.com/Vitosoaresp/clone_netflix">Repositório</a>
+            </div>
+        </td>
      <td align="top">
       <h3 align="center">Online Store</h3>
       <a href="https://vitosoaresp.github.io/online-store/"><img width=400px src="https://user-images.githubusercontent.com/23152592/174706270-357e0ab5-8fde-43a8-8b0d-1da51ff17293.png" alt="Project Online Store preview" /></a>
@@ -81,26 +98,3 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
         </div>
     </td>
  </tr>
-    <tr>
-        <td align="top">
-          <h3 align="center">Clone da Netflix</h3>
-          <a href="https://github.com/Vitosoaresp/clone_netflix">
-            <img
-                width=400px
-                src="https://user-images.githubusercontent.com/23152592/180915771-d67ee878-4f87-41cd-9566-d22549c7d140.png"
-                alt="Pre visualização do clone da netflix"
-            />
-          </a>
-            <div align="center">
-              <a href="https://clone-netflix-gilt.vercel.app/">Aplicação</a>
-                <span>---</span>
-              <a href="https://github.com/Vitosoaresp/clone_netflix">Repositório</a>
-            </div>
-        </td>
-    </tr>
-
-  
-<!---
-Vitosoaresp/Vitosoaresp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
