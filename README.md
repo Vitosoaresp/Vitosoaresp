@@ -1,4 +1,4 @@
-## Oi 👋, eu sou o Vitor Soares
+## Oi 👋, eu sou o Vitor Soares <img align="center" src="https://komarev.com/ghpvc/?username=Vitosoaresp" />
 
 <a href = "mailto:pereiravitor1218@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/vitorsoaresp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -32,7 +32,6 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitosoaresp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     </a>
 </div>
-<img align="center" src="https://komarev.com/ghpvc/?username=Vitosoaresp" />
     
 ## Projetos 
  <table>
