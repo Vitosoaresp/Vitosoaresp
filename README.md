@@ -89,12 +89,10 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
         </div>
     </td>
     <td align="top">
-      <h3 align="center">Formulario de login</h3>
-      <a href="https://github.com/Vitosoaresp/LoginForm"><img width=400px src="https://user-images.githubusercontent.com/23152592/171972396-43274cea-760e-424d-9319-2407208f9a8f.png" alt="Project FormLogin preview" /></a>
+      <h3 align="center">Nlw-eSports</h3>
+      <a href="https://github.com/Vitosoaresp/nlw-eSports"><img width=400px src="https://github.com/Vitosoaresp/nlw-eSports/raw/main/web/public/nlw-2.png" alt="" /></a>
         <div align="center">
-          <a href="https://vitosoaresp.github.io/LoginForm/">GitHub Page</a>
-            <span>---</span>
-          <a href="https://github.com/Vitosoaresp/LoginForm">Repositorio</a>
+          <a href="https://github.com/Vitosoaresp/nlw-eSports">Repositorio</a>
         </div>
     </td>
  </tr>
