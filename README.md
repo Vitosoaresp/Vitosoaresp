@@ -74,6 +74,28 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
  </tr>
  <tr>
     <td align="top">
+      <h3 align="center">Nlw-eSports</h3>
+      <a href="https://github.com/Vitosoaresp/nlw-eSports"><img width=400px src="https://github.com/Vitosoaresp/nlw-eSports/raw/main/web/public/nlw-2.png" alt="" /></a>
+        <div align="center">
+          <a href="https://github.com/Vitosoaresp/nlw-eSports">Repositorio</a>
+        </div>
+    </td>
+    <td align="top">
+      <h3 align="center">Finance Control</h3>
+      <a href="https://github.com/Vitosoaresp/finance-control">
+        <img
+            width=400px
+            src="https://github.com/Vitosoaresp/finance-control/raw/main/finance-control-preview.png"
+            alt="Project finance-control preview"
+        />
+      </a>
+        <div align="center">
+          <a href="http://finance-control-vsp.vercel.app/">Aplicação</a>
+            <span>---</span>
+          <a href="https://github.com/Vitosoaresp/finance-control/">Repositorio</a>
+        </div>
+    </td>
+    <td align="top">
       <h3 align="center">Rocket NFTs</h3>
       <a href="https://github.com/Vitosoaresp/rocketnfts">
         <img
@@ -86,13 +108,6 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
           <a href="https://vitosoaresp.github.io/rocketnfts/">Aplicação</a>
             <span>---</span>
           <a href="https://github.com/Vitosoaresp/rocketnfts/">Repositorio</a>
-        </div>
-    </td>
-    <td align="top">
-      <h3 align="center">Nlw-eSports</h3>
-      <a href="https://github.com/Vitosoaresp/nlw-eSports"><img width=400px src="https://github.com/Vitosoaresp/nlw-eSports/raw/main/web/public/nlw-2.png" alt="" /></a>
-        <div align="center">
-          <a href="https://github.com/Vitosoaresp/nlw-eSports">Repositorio</a>
         </div>
     </td>
  </tr>
