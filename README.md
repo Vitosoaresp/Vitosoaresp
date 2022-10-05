@@ -96,6 +96,21 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
         </div>
     </td>
     <td align="top">
+      <h3 align="center">Trybe Futebol Club</h3>
+      <a href="https://github.com/Vitosoaresp/trybe-futebol-club">
+        <img
+            width=400px
+            src="https://github.com/Vitosoaresp/trybe-futebol-club/raw/main/assets/tabela.png"
+            alt="Project TFC preview"
+        />
+      </a>
+        <div align="center">
+          <a href="https://github.com/Vitosoaresp/trybe-futebol-club">Repositorio</a>
+        </div>
+    </td>
+ </tr>
+ <tr>
+    <td align="top">
       <h3 align="center">Rocket NFTs</h3>
       <a href="https://github.com/Vitosoaresp/rocketnfts">
         <img
