@@ -52,34 +52,6 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
               <a href="https://github.com/Vitosoaresp/clone_netflix">Repositório</a>
             </div>
         </td>
-     <td align="top">
-      <h3 align="center">Online Store</h3>
-      <a href="https://vitosoaresp.github.io/online-store/"><img width=400px src="https://user-images.githubusercontent.com/23152592/174706270-357e0ab5-8fde-43a8-8b0d-1da51ff17293.png" alt="Project Online Store preview" /></a>
-        <div align="center">
-          <a href="https://vitosoaresp.github.io/online-store/">Aplicação</a>
-            <span>---</span>
-          <a href="https://github.com/Vitosoaresp/online-store">Repositorio</a>
-        </div>
-    </td>
-    <td align="top">
-      <h3 align="center">Recipes App</h3>
-      <a href="https://recipes-app-five-rosy.vercel.app/"><img width=400px src="https://user-images.githubusercontent.com/23152592/177244849-6dd47e48-1ca0-4c2f-98dd-630744a76ab5.PNG" alt="Project Recipes App preview" /></a>
-        <div align="center">
-          <a href="https://recipes-app-five-rosy.vercel.app/">Aplicação</a>
-            <span>---</span>
-          <a href="https://github.com/Vitosoaresp/recipes-app">Repositorio</a>
-        </div>
-    </td>
-    
- </tr>
- <tr>
-    <td align="top">
-      <h3 align="center">Nlw-eSports</h3>
-      <a href="https://github.com/Vitosoaresp/nlw-eSports"><img width=400px src="https://github.com/Vitosoaresp/nlw-eSports/raw/main/web/public/nlw-2.png" alt="" /></a>
-        <div align="center">
-          <a href="https://github.com/Vitosoaresp/nlw-eSports">Repositorio</a>
-        </div>
-    </td>
     <td align="top">
       <h3 align="center">Finance Control</h3>
       <a href="https://github.com/Vitosoaresp/finance-control">
@@ -106,6 +78,34 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
       </a>
         <div align="center">
           <a href="https://github.com/Vitosoaresp/trybe-futebol-club">Repositorio</a>
+        </div>
+    </td>
+    
+ </tr>
+ <tr>
+    <td align="top">
+      <h3 align="center">Nlw-eSports</h3>
+      <a href="https://github.com/Vitosoaresp/nlw-eSports"><img width=400px src="https://github.com/Vitosoaresp/nlw-eSports/raw/main/web/public/nlw-2.png" alt="" /></a>
+        <div align="center">
+          <a href="https://github.com/Vitosoaresp/nlw-eSports">Repositorio</a>
+        </div>
+    </td>
+    <td align="top">
+      <h3 align="center">Online Store</h3>
+      <a href="https://vitosoaresp.github.io/online-store/"><img width=400px src="https://user-images.githubusercontent.com/23152592/174706270-357e0ab5-8fde-43a8-8b0d-1da51ff17293.png" alt="Project Online Store preview" /></a>
+        <div align="center">
+          <a href="https://vitosoaresp.github.io/online-store/">Aplicação</a>
+            <span>---</span>
+          <a href="https://github.com/Vitosoaresp/online-store">Repositorio</a>
+        </div>
+    </td>
+    <td align="top">
+      <h3 align="center">Recipes App</h3>
+      <a href="https://recipes-app-five-rosy.vercel.app/"><img width=400px src="https://user-images.githubusercontent.com/23152592/177244849-6dd47e48-1ca0-4c2f-98dd-630744a76ab5.PNG" alt="Project Recipes App preview" /></a>
+        <div align="center">
+          <a href="https://recipes-app-five-rosy.vercel.app/">Aplicação</a>
+            <span>---</span>
+          <a href="https://github.com/Vitosoaresp/recipes-app">Repositorio</a>
         </div>
     </td>
  </tr>
