@@ -84,10 +84,12 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
  </tr>
  <tr>
     <td align="top">
-      <h3 align="center">Nlw-eSports</h3>
-      <a href="https://github.com/Vitosoaresp/nlw-eSports"><img width=400px src="https://github.com/Vitosoaresp/nlw-eSports/raw/main/web/public/nlw-2.png" alt="" /></a>
+      <h3 align="center">Find You Duo</h3>
+      <a href="https://github.com/Vitosoaresp/find-you-duo"><img width=400px src="https://github.com/Vitosoaresp/nlw-eSports/raw/main/web/public/nlw-2.png" alt="" /></a>
         <div align="center">
-          <a href="https://github.com/Vitosoaresp/nlw-eSports">Repositorio</a>
+           <a href="https://find-you-duo-vitosoaresp.vercel.app/">Aplicação</a>
+           <span>---</span>
+           <a href="https://github.com/Vitosoaresp/find-you-duo">Repositorio</a>
         </div>
     </td>
     <td align="top">
