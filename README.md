@@ -105,6 +105,15 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
         </div>
     </td>
     <td align="top">
+      <h3 align="center">Banco on-line</h3>
+      <a href="https://github.com/Vitosoaresp/banking-online"><img width=400px src="https://user-images.githubusercontent.com/23152592/203162169-d92771d8-1029-4b34-bb83-8c075b35b385.png" alt="Project banking online App preview" /></a>
+        <div align="center">
+          <a href="https://github.com/Vitosoaresp/banking-online">Repositorio</a>
+        </div>
+    </td>
+ </tr>
+ <tr>
+    <td align="top">
       <h3 align="center">Recipes App</h3>
       <a href="https://recipes-app-five-rosy.vercel.app/"><img width=400px src="https://user-images.githubusercontent.com/23152592/177244849-6dd47e48-1ca0-4c2f-98dd-630744a76ab5.PNG" alt="Project Recipes App preview" /></a>
         <div align="center">
@@ -113,8 +122,6 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
           <a href="https://github.com/Vitosoaresp/recipes-app">Repositorio</a>
         </div>
     </td>
- </tr>
- <tr>
     <td align="top">
       <h3 align="center">Rocket NFTs</h3>
       <a href="https://github.com/Vitosoaresp/rocketnfts">
