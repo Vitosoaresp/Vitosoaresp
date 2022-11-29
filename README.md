@@ -96,12 +96,12 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
         </div>
     </td>
     <td align="top">
-      <h3 align="center">Online Store</h3>
-      <a href="https://vitosoaresp.github.io/online-store/"><img width=400px src="https://user-images.githubusercontent.com/23152592/174706270-357e0ab5-8fde-43a8-8b0d-1da51ff17293.png" alt="Project Online Store preview" /></a>
+      <h3 align="center">Ecommerce for developers</h3>
+      <a href="https://github.com/Vitosoaresp/ecommerce-developers"><img width=400px src="https://user-images.githubusercontent.com/23152592/204630736-abc4b6f1-4fdc-4e96-8a13-aface499800d.png" alt="Project preview" /></a>
         <div align="center">
-          <a href="https://vitosoaresp.github.io/online-store/">Aplicação</a>
+          <a href="https://ecommerce-developers.vercel.app/">Aplicação</a>
             <span>---</span>
-          <a href="https://github.com/Vitosoaresp/online-store">Repositorio</a>
+          <a href="https://github.com/Vitosoaresp/ecommerce-developers">Repositorio</a>
         </div>
     </td>
     <td align="top">
@@ -135,6 +135,15 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
           <a href="https://vitosoaresp.github.io/rocketnfts/">Aplicação</a>
             <span>---</span>
           <a href="https://github.com/Vitosoaresp/rocketnfts/">Repositorio</a>
+        </div>
+    </td>
+      <td align="top">
+      <h3 align="center">Online Store</h3>
+      <a href="https://vitosoaresp.github.io/online-store/"><img width=400px src="https://user-images.githubusercontent.com/23152592/174706270-357e0ab5-8fde-43a8-8b0d-1da51ff17293.png" alt="Project Online Store preview" /></a>
+        <div align="center">
+          <a href="https://vitosoaresp.github.io/online-store/">Aplicação</a>
+            <span>---</span>
+          <a href="https://github.com/Vitosoaresp/online-store">Repositorio</a>
         </div>
     </td>
  </tr>
