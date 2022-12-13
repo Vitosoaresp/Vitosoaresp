@@ -130,7 +130,7 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
         <div align="center">
           <a href="http://banking-online.vercel.app/">Aplicação</a>
             <span>---</span>
-          <a href="https://github.com/Vitosoaresp/finance-control/">Repositorio</a>
+          <a href="https://github.com/Vitosoaresp/banking-online/">Repositorio</a>
         </div>
     </td>
  </tr>
