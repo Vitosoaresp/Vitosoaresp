@@ -146,18 +146,16 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
         </div>
     </td>
     <td align="top">
-      <h3 align="center">Rocket NFTs</h3>
-      <a href="https://github.com/Vitosoaresp/rocketnfts">
+      <h3 align="center">Nlw setup - Habits</h3>
+      <a href="https://github.com/Vitosoaresp/nlw-habits">
         <img
             width=400px
-            src="https://user-images.githubusercontent.com/23152592/180119578-7fc084de-bc99-4238-bf4a-9edf01a9391f.jpeg"
+            src="https://user-images.githubusercontent.com/23152592/213939660-7b7c7aef-8e2b-4ebc-9103-9e5eb2d7e07b.png"
             alt="Project rocketnfts preview"
         />
       </a>
         <div align="center">
-          <a href="https://vitosoaresp.github.io/rocketnfts/">Aplicação</a>
-            <span>---</span>
-          <a href="https://github.com/Vitosoaresp/rocketnfts/">Repositorio</a>
+          <a href="https://github.com/Vitosoaresp/nlw-habits/">Repositorio</a>
         </div>
     </td>
       <td align="top">
