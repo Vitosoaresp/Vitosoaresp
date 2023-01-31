@@ -61,21 +61,19 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
 ## Projetos 
  <table>
  <tr>
-     <td align="top">
-        <h3 align="center">Clone da Netflix</h3>
-          <a href="https://github.com/Vitosoaresp/clone_netflix">
+    <td align="top">
+        <h3 align="center">Nlw setup - Habits</h3>
+        <a href="https://github.com/Vitosoaresp/nlw-habits">
             <img
                 width=400px
-                src="https://user-images.githubusercontent.com/23152592/180915771-d67ee878-4f87-41cd-9566-d22549c7d140.png"
-                alt="Pre visualização do clone da netflix"
+                src="https://user-images.githubusercontent.com/23152592/213939660-7b7c7aef-8e2b-4ebc-9103-9e5eb2d7e07b.png"
+                alt="Project rocketnfts preview"
             />
-          </a>
-            <div align="center">
-              <a href="https://clone-netflix-gilt.vercel.app/">Aplicação</a>
-                <span>---</span>
-              <a href="https://github.com/Vitosoaresp/clone_netflix">Repositório</a>
-            </div>
-        </td>
+        </a>
+        <div align="center">
+          <a href="https://github.com/Vitosoaresp/nlw-habits/">Repositorio</a>
+        </div>
+    </td>
     <td align="top">
       <h3 align="center">Finance Control</h3>
       <a href="https://github.com/Vitosoaresp/finance-control">
@@ -92,19 +90,14 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
         </div>
     </td>
     <td align="top">
-      <h3 align="center">Trybe Futebol Club</h3>
-      <a href="https://github.com/Vitosoaresp/trybe-futebol-club">
-        <img
-            width=400px
-            src="https://github.com/Vitosoaresp/trybe-futebol-club/raw/main/assets/tabela.png"
-            alt="Project TFC preview"
-        />
-      </a>
+      <h3 align="center">Banco on-line</h3>
+      <a href="https://github.com/Vitosoaresp/banking-online"><img width=400px src="https://user-images.githubusercontent.com/23152592/203162169-d92771d8-1029-4b34-bb83-8c075b35b385.png" alt="Project banking online App preview" /></a>
         <div align="center">
-          <a href="https://github.com/Vitosoaresp/trybe-futebol-club">Repositorio</a>
+          <a href="http://banking-online.vercel.app/">Aplicação</a>
+            <span>---</span>
+          <a href="https://github.com/Vitosoaresp/banking-online/">Repositorio</a>
         </div>
     </td>
-    
  </tr>
  <tr>
     <td align="top">
@@ -125,13 +118,17 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
           <a href="https://github.com/Vitosoaresp/ecommerce-developers">Repositorio</a>
         </div>
     </td>
-    <td align="top">
-      <h3 align="center">Banco on-line</h3>
-      <a href="https://github.com/Vitosoaresp/banking-online"><img width=400px src="https://user-images.githubusercontent.com/23152592/203162169-d92771d8-1029-4b34-bb83-8c075b35b385.png" alt="Project banking online App preview" /></a>
+     <td align="top">
+      <h3 align="center">Trybe Futebol Club</h3>
+      <a href="https://github.com/Vitosoaresp/trybe-futebol-club">
+        <img
+            width=400px
+            src="https://github.com/Vitosoaresp/trybe-futebol-club/raw/main/assets/tabela.png"
+            alt="Project TFC preview"
+        />
+      </a>
         <div align="center">
-          <a href="http://banking-online.vercel.app/">Aplicação</a>
-            <span>---</span>
-          <a href="https://github.com/Vitosoaresp/banking-online/">Repositorio</a>
+          <a href="https://github.com/Vitosoaresp/trybe-futebol-club">Repositorio</a>
         </div>
     </td>
  </tr>
@@ -145,20 +142,22 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
           <a href="https://github.com/Vitosoaresp/recipes-app">Repositorio</a>
         </div>
     </td>
-    <td align="top">
-      <h3 align="center">Nlw setup - Habits</h3>
-      <a href="https://github.com/Vitosoaresp/nlw-habits">
-        <img
-            width=400px
-            src="https://user-images.githubusercontent.com/23152592/213939660-7b7c7aef-8e2b-4ebc-9103-9e5eb2d7e07b.png"
-            alt="Project rocketnfts preview"
-        />
-      </a>
+     <td align="top">
+        <h3 align="center">Clone da Netflix</h3>
+          <a href="https://github.com/Vitosoaresp/clone_netflix">
+            <img
+                width=400px
+                src="https://user-images.githubusercontent.com/23152592/180915771-d67ee878-4f87-41cd-9566-d22549c7d140.png"
+                alt="Pre visualização do clone da netflix"
+            />
+          </a>
         <div align="center">
-          <a href="https://github.com/Vitosoaresp/nlw-habits/">Repositorio</a>
+          <a href="https://clone-netflix-gilt.vercel.app/">Aplicação</a>
+            <span>---</span>
+          <a href="https://github.com/Vitosoaresp/clone_netflix">Repositório</a>
         </div>
     </td>
-      <td align="top">
+    <td align="top">
       <h3 align="center">Online Store</h3>
       <a href="https://vitosoaresp.github.io/online-store/"><img width=400px src="https://user-images.githubusercontent.com/23152592/174706270-357e0ab5-8fde-43a8-8b0d-1da51ff17293.png" alt="Project Online Store preview" /></a>
         <div align="center">
