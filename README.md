@@ -1,16 +1,16 @@
-## Oi 👋, eu sou o Vitor Soares <img align="center" src="https://komarev.com/ghpvc/?username=Vitosoaresp" />
+# Oi 👋, eu sou o Vitor Soares <img align="center" src="https://komarev.com/ghpvc/?username=Vitosoaresp" />
 
 <a href = "mailto:pereiravitor1218@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/vitorsoaresp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-## Sobre min:
+# Sobre min:
 
 Teixeira de Freitas - Bahia 
 
 Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
 
-## Tecnologias:
-> Frontend
+# Tecnologias que dominio:
+### Frontend
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -23,10 +23,12 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 
 <hr />
 
-> Backend
+### Backend
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -40,7 +42,7 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
 
 <hr />
 
-> Outros
+### Outros
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -50,7 +52,7 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## Minhas estatíticas 
+# Minhas estatíticas 
 <div>
     <a href="https://github.com/Vitosoaresp">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitosoaresp&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -58,7 +60,7 @@ Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
     </a>
 </div>
     
-## Projetos 
+# Projetos 
  <table>
  <tr>
     <td align="top">
