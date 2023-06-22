@@ -92,7 +92,7 @@ Desenvolvedor Web :computer:
         </div>
     </td>
     <td align="top">
-      <h3 align="center">Banco on-line</h3>
+      <h3 align="center">Online Banking</h3>
       <a href="https://github.com/Vitosoaresp/banking-online"><img width=400px src="https://user-images.githubusercontent.com/23152592/203162169-d92771d8-1029-4b34-bb83-8c075b35b385.png" alt="Project banking online App preview" /></a>
         <div align="center">
           <a href="http://banking-online.vercel.app/">Aplicação</a>
