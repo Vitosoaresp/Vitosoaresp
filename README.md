@@ -7,7 +7,7 @@
 
 Teixeira de Freitas - Bahia 
 
-Estudando programação Web Full-Stack na [Trybe](https://www.betrybe.com/)
+Desenvolvedor Web :computer:
 
 # Tecnologias que dominio:
 ### Frontend
